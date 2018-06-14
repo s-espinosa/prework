@@ -3,11 +3,11 @@
 ## Written Responses
 
 * [Day 1 Questions](./day_1/questions.md)
-* [Day 2 Questions](./day_1/questions.md)
-* [Day 3 Questions](./day_1/questions.md)
-* [Day 4 Questions](./day_1/questions.md)
-* [Day 5 Questions](./day_1/questions.md)
-* [Day 6 Questions](./day_1/questions.md)
+* [Day 2 Questions](./day_2/questions.md)
+* [Day 3 Questions](./day_3/questions.md)
+* [Day 4 Questions](./day_4/questions.md)
+* [Day 5 Questions](./day_5/questions.md)
+* [Day 6 Questions](./day_6/questions.md)
 * [Professional Development Responses](./professional_development.md)
 * [Gear-Up Reflection](./gear_up.md)
 
@@ -42,8 +42,9 @@ I don't expect any of the content below would be part of a student repo, but wan
 * Practice
     * Complete Exercises
     * Answer Questions
-* Complete PD Assignment 1
-* Commit and Push
+* Intro to Git/GitHub
+    * Read introduction
+    * Follow Instructions to Commit and Push
 
 #### Day 2
 
@@ -52,39 +53,62 @@ I don't expect any of the content below would be part of a student repo, but wan
 * Practice
     * Complete Exercises
     * Answer Questions
-* Complete PD Assignment 2
+* Complete PD Assignment 1
 * Follow Instructions to Commit and Push
 
 #### Day 3
 
 * Read Lessons
     * Conditionals
+* Practice
+    * Complete Exercises
+    * Answer Questions
+* Complete PD Assignment 2
+* Follow Instructions to Commit and Push
 
 #### Day 4
 
 * Read Lessons
     * Methods
+* Practice
+    * Complete Exercises
+    * Answer Questions
+* Complete PD Assignment 3
+* Follow Instructions to Commit and Push
 
 #### Day 5
 
 * Read Lessons
     * Classes
+* Practice
+    * Complete Exercises
+    * Answer Questions
+* Complete Gear-Up Assignment
+* Follow Instructions to Commit and Push
 
 #### Day 6
 
 * Read Lessons
     * Hashes
     * Arrays
+* Practice
+    * Complete Exercises
+    * Answer Questions
+* Follow Instructions to Commit and Push
 
 #### Day 7
 
-* Build a project
+* Build some projects (at least one of the following)
+    * 10 Little Monkeys
+    * FizzBuzz
+    * Caesar Cipher
+    * Checker Board
+* Follow Instructions to Commit and Push
 
 
+### Things to Cover
 
-# Things to Cover
-
-## Command Line
+#### Command Line
 
 * ls
 * ls -a
@@ -93,40 +117,40 @@ I don't expect any of the content below would be part of a student repo, but wan
 * touch
 * clear
 
-## Strings
+#### Strings
 
 * String interpolation
 * `#capitalize`
 * `#downcase`
 * `#upcase`
 
-## Integers
+#### Integers
 
 * `+=`
 * `%`
 
-## Floats?
+#### Floats?
 
-## Booleans
+#### Booleans
 
 * ==
 * <=
 * >=
 * !=
 
-## Looping
+#### Looping
 
 * until
 * while
 * times do?
 
-## Flow Control
+#### Flow Control
 
 * if
 * else
 * elsif
 
-## Git/GitHub
+#### Git/GitHub
 
 * git init
 * git status
