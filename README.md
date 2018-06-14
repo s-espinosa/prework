@@ -2,14 +2,14 @@
 
 ## Written Responses
 
-* [Day 1 Questions](./day_1/questions)
-* [Day 2 Questions](./day_1/questions)
-* [Day 3 Questions](./day_1/questions)
-* [Day 4 Questions](./day_1/questions)
-* [Day 5 Questions](./day_1/questions)
-* [Day 6 Questions](./day_1/questions)
-* [Professional Development Responses](./professional_development)
-* [Gear-Up Reflection](./gear_up)
+* [Day 1 Questions](./day_1/questions.md)
+* [Day 2 Questions](./day_1/questions.md)
+* [Day 3 Questions](./day_1/questions.md)
+* [Day 4 Questions](./day_1/questions.md)
+* [Day 5 Questions](./day_1/questions.md)
+* [Day 6 Questions](./day_1/questions.md)
+* [Professional Development Responses](./professional_development.md)
+* [Gear-Up Reflection](./gear_up.md)
 
 ---
 
