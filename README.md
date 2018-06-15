@@ -116,6 +116,8 @@ I don't expect any of the content below would be part of a student repo, but wan
 * mkdir
 * touch
 * clear
+* rm
+* rm -rf
 
 #### Strings
 
